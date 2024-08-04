@@ -1,2 +1,1 @@
-# GYM
-Web page
+# GYM web page 
